@@ -1,7 +1,7 @@
-emoji :v: y'all!
+emoji :no_pedestrians: y'all!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Jesli, I like to code and finish this assignment.
 
 hugot_lines/other_stuffs
-> "Happiness is just a matter of perspective. It's your choice how to look at the world".
+> "What's done is done -Crixalis".
