@@ -1,7 +1,7 @@
-emoji :v: y'all!
+emoji :necbeard: y'all!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Dave, I like to Edit Codes.
 
 hugot_lines/other_stuffs
-> "Happiness is just a matter of perspective. It's your choice how to look at the world".
+> "Death solves all problems - no man, no problem. -Joseph Stalin".
