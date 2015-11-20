@@ -1,4 +1,4 @@
-emoji :eyes y'all!
+emoji :eyes: y'all!
 ***
 about_me
 >  Hi I'm Ian, and I like food.
