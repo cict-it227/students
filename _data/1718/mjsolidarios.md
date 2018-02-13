@@ -1,7 +1,7 @@
-emoji :v: y'all!
+emoji :bowtie: y'all!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>   Hi I'm Camille. I'm an only child. I'm single. I'm not lonely, just alone. I'm thinking of debuting as a soloist and planning on releasing a new single entitled "Consistency", so yeah.
 
 hugot_lines/inspirational_quotes /other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be" - Dr. Harold Winston, Overwatch
+> "Kahit mahal, kailangan pa ding i-let go." - PAG-ASA Cebu, 2018
