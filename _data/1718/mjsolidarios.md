@@ -1,7 +1,7 @@
-emoji :v: y'all!
+emoji :wink: y'all!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Nikki, not really good in coding but willing to learn.
 
 hugot_lines/inspirational_quotes /other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be" - Dr. Harold Winston, Overwatch
+> "Stay strong, be positive. We all struggle sometimes."
